@@ -24,7 +24,7 @@ The criterion was based on the birth dates ranging from 1952 to 1955 and hired d
 
 - Below is the list of candidates that can qualify to become members of the mentorship program, they can be referenced as "senior" employees amongst the general staff. 
 
-	![alt text]([https://github.com/Karenjakins/Pewlett-Hackard-Analysis/blob/main/Queries/Mentorship%20Eligibility.png](https://github.com/zhangkevq/Pewlett-Hackard-Analysis/blob/main/Resources/mentorship_eligibility.png) "Mentorship Candidates")
+	![alt text](https://github.com/zhangkevq/Pewlett-Hackard-Analysis/blob/main/Resources/mentorship_eligibility.png "Mentorship Candidates")
 	
 
 ## Summary
